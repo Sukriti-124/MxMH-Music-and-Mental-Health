@@ -2,7 +2,8 @@
 
 An interactive data analysis project that explores the relationship between music listening habits and mental health conditions such as anxiety, depression, insomnia, and OCD using survey data.
 
-Tableau Dashboard : [Music x Mental Health](https://public.tableau.com/app/profile/sukriti.srivastava5327/viz/MusicMentalHealthDashboard_17736861353150/Dashboard1) 
+Tableau Dashboard : [Music x Mental Health](https://public.tableau.com/app/profile/sukriti.srivastava5327/viz/MusicMentalHealthDashboard_17736861353150/Dashboard1)
+((Interactive dashboard built using Tableau Public for exploring music habits and mental health trends))
 
 ## 📌 Research Question
 
