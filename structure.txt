@@ -1,0 +1,16 @@
+MxMH/
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── data/
+│   └── .gitkeep          # data auto-downloaded by setup.py
+├── src/
+│   ├── __init__.py
+│   ├── data_loader.py    # download + load data
+│   ├── preprocessing.py  # cleaning + feature engineering
+│   ├── models.py         # all 4 classifiers + evaluation
+│   ├── shap_analysis.py  # SHAP explainability
+│   └── clustering.py     # unsupervised learning (KMeans + PCA)
+├── outputs/              # saved plots + CSVs
+├── main.py               # run full pipeline end-to-end
+└── app.py                # Streamlit app

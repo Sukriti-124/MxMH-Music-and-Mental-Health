@@ -1,0 +1,11 @@
+data/
+outputs/
+models/*.pkl
+__pycache__/
+*.pyc
+.env
+.kaggle/
+*.ipynb_checkpoints
+.DS_Store
+venv/
+.venv/
